@@ -45,4 +45,4 @@ Este proyecto forma parte de un **challenge de Java**, enfocado en el consumo de
 **Gutendex API**  
 Catálogo de más de 70.000 libros de dominio público.
 
-- URL base:  
+- URL base:  https://gutendex.com/
